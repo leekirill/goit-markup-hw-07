@@ -1,0 +1,16 @@
+.header__link-contact {
+  text-decoration: none;
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: $secondary-text-color;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  cursor: pointer;
+
+  &:hover {
+    color: $main-color;
+  }
+}

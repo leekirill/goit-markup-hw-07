@@ -1,0 +1,7 @@
+.header {
+  background-color: $primary-background-color;
+}
+
+.container {
+  @extend %container;
+}
